@@ -14,7 +14,10 @@ Workforce — Age distribution, education field/level, job level split, marital 
 
 Screenshorts/Workforce.png
 
-Growth Metrics — Satisfaction heatmap (department × metric), satisfaction score breakdown, performance by department, training time averages, overtime impact on work-life balance.(Growth Metrics.png)
+Growth Metrics — Satisfaction heatmap (department × metric), satisfaction score breakdown, performance by department, training time averages, overtime impact on work-life balance.
+
+Screenshorts/Growth Metrics.png
+
 DATA MODEL
 
 Star schema — 1 fact table, 4 dimension tables:
