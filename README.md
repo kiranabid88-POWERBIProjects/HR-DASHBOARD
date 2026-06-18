@@ -10,7 +10,9 @@ Attrition — 167 employees lost, 17% attrition rate, average tenure lost (5.28 
 
 Screenshorts/Attrition.png
 
-Workforce — Age distribution, education field/level, job level split, marital status, average commute distance.(Workforce.png)
+Workforce — Age distribution, education field/level, job level split, marital status, average commute distance.
+
+Screenshorts/Workforce.png
 
 Growth Metrics — Satisfaction heatmap (department × metric), satisfaction score breakdown, performance by department, training time averages, overtime impact on work-life balance.(Growth Metrics.png)
 DATA MODEL
