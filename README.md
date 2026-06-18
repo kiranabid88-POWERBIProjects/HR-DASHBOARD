@@ -2,7 +2,9 @@
 A 4-page Power BI dashboard analyzing workforce demographics, attrition, and employee satisfaction for a fictional UK tech company, Nexoria Technologies. Built on a star schema with 25+ DAX measures.
 DASHBOARD PAGES
 
-Overview — Total/active employees, attrition rate, average income, experience, age, tenure, headcount by department, gender split. Synced slicers: Department, Gender, Age Group.(Overview.png)
+Overview — Total/active employees, attrition rate, average income, experience, age, tenure, headcount by department, gender split. Synced slicers: Department, Gender, Age Group.
+
+Screenshorts/Overview.png
 
 Attrition — 167 employees lost, 17% attrition rate, average tenure lost (5.28 yrs), breakdown by department, job role, gender, marital status, business travel.(Attrition.png)
 
