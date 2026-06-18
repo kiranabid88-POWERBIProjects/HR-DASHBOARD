@@ -6,7 +6,9 @@ Overview — Total/active employees, attrition rate, average income, experience,
 
 Screenshorts/Overview.png
 
-Attrition — 167 employees lost, 17% attrition rate, average tenure lost (5.28 yrs), breakdown by department, job role, gender, marital status, business travel.(Attrition.png)
+Attrition — 167 employees lost, 17% attrition rate, average tenure lost (5.28 yrs), breakdown by department, job role, gender, marital status, business travel.
+
+Screenshorts/Attrition.png
 
 Workforce — Age distribution, education field/level, job level split, marital status, average commute distance.(Workforce.png)
 
